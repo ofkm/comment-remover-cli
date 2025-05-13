@@ -4,7 +4,7 @@
   "description": "A CLI tool to remove comments from Svelte and TypeScript files while preserving JSDoc",
   "main": "dist/index.js",
   "bin": {
-    "comment-remover-cli": "./dist/bin/cli.js"
+    "comment-remover-cli": "./dist/index.js"
   },
   "files": [
     "dist/**/*",

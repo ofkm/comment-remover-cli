@@ -32,7 +32,7 @@ Replace `<path-to-your-codebase>` with the path to the directory containing your
 To contribute to the project, clone the repository and install the dependencies:
 
 ```
-git clone <repository-url>
+git clone https://github.com/ofkm/comment-remover-cli
 cd comment-remover-cli
 npm install
 ```
